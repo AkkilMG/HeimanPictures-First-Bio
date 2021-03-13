@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 --!>
 ### Available 👇
 
-[![Heiman Pictures Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/heimancreatiin)
+[![Heiman Pictures Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/heimancreation)
 
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HeimanPictures/&title=Profile%20Views)
