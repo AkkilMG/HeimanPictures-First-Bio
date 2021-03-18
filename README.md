@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 
 **HeimanPictures/HeimanPictures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,18 +24,37 @@ Here are some ideas to get you started:
 
 
 
-### Available 👇
+## **Available 👇**
 
-[![Heiman Pictures Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/heimancreation)
+### Telegram
 
+<a href="https://telegram.dog/HeimanCreation"><img src="https://img.shields.io/badge/Telegram-Account-blue.svg?logo=telegram"></a>
+
+### Follow on:
+<p align="left">
+<a href="https://github.com/HeimanPictures"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+</p>
+<p align="left">
+<a href="https://twitter.com/HeimanPictures"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
+</p>
+<p align="left">
+<a href="https://www.facebook.com/heiman.pictures.3"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
+</p>
+<p align="left">
+<a href="https://instagram.com/heiman_pictures"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
+</p>
+
+## Profile 👤
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HeimanPictures/&title=Profile%20Views)
 
 
-### Skills 👨‍💻
-![Python](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg)
+## Skills 👨‍💻
+
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-Code-black.svg?logo=python"></a>
 
 
-### Status 📈
+
+## Status 📈
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=HeimanPictures&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
