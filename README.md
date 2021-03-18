@@ -1,10 +1,6 @@
 # Hi there 👋
 
 
-**HeimanPictures/HeimanPictures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 [<p align="center">
 <img src="https://telegra.ph/file/dd05eca3d948acb6982ac.jpg">](https://telegram.dog/HeimanCreation)
 
